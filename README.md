@@ -1,2 +1,1 @@
-# TI_Resume
--장태인 이력서-
+https://dev-taein.github.io/TI_Resume/
